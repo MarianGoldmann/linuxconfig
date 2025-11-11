@@ -1,7 +1,7 @@
 [init]
 	defaultBranch = main
 
-[includeIf "gitdir:~/HsOsna/"]
-    path = ~/HsOsna/.gitconfig
+[includeIf "gitdir:~/Uni/"]
+    path = ~/Uni/.gitconfig
 
 
